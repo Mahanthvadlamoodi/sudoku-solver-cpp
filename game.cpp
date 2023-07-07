@@ -1,6 +1,3 @@
-//Name : Arshith Varma , 21EE10023 
-//SUDOKU SOLVER 
-
 #include <iostream>
 #include <vector>
 #include <random>
